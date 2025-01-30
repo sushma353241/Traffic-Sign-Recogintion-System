@@ -1,4 +1,4 @@
-# Traffic signs detection and classification in real time
+# Traffic Sign Recognition System
 
 ### A new version using SSD will be released this summer for anyone need higher accuracy detection method. Stay tuned for new update!
 
